@@ -132,6 +132,7 @@ footer>a>p{
 	font-weight: bold;
 	padding: 10px;
 	font-size: 1.4em;
+	margin-bottom: 5px;
 }
 
 img#logo{
@@ -143,4 +144,14 @@ img#logo{
 }
 div#h1{
 	background-image: url("../images/H3bg.jpg");
+}
+.menu{
+	color: white;
+	margin-left: 10px;
+				
+}
+.menu:hover{
+	background-color: black;
+	padding: 10px;
+	border-radius: 8px;
 }
